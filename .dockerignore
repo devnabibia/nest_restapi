@@ -1,0 +1,7 @@
+node_modules
+dist
+.git
+.eslintrc.js
+docker-compose.yml
+LICENSE
+*.md
